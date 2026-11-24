@@ -12,7 +12,7 @@
 
 ### About
 
-I’m a senior Computer Engineering student at Yaşar University, interested in how software and hardware work together. My studies and projects have taken me through systems programming, digital logic, databases, networking, and algorithm design. I’m currently working with a student team on a graduation project focused on a smart irrigation system.
+I’m a senior Computer Engineering student at Yaşar University, interested in how software and hardware work together. My studies and projects have taken me through systems programming, digital logic, databases, networking, and algorithm design. I’m currently working on a graduation project focuses on an AI-Integrated Smart Irrigation System with a team of 4 students.
 
 ### Coursework
 
@@ -29,7 +29,7 @@ I’m a senior Computer Engineering student at Yaşar University, interested in 
 | Web | HTML, CSS |
 | Databases | SQL |
 | Tools | Git, VS Code, Proteus, Logisim |
-| Foundations | Debugging, code analysis, digital circuit design, system simulation, network fundamentals, OS architecture, hardware configuration |
+| Foundations | Debugging, Algorithms, Code Analysis, Digital Circuit Design, System Simulation, Network Fundamentals, OS architecture, Hardware Configuration |
 
 ### Languages
 
@@ -47,7 +47,7 @@ I’m a senior Computer Engineering student at Yaşar University, interested in 
 
 ### Current Interests
 
-Systems programming · Computer architecture · Embedded systems · Practical software projects
+Systems programming · Computer architecture · Embedded systems · Practical software projects 
 
 ---
 
