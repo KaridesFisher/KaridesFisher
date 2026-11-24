@@ -42,6 +42,7 @@ I’m a senior Computer Engineering student at Yaşar University, interested in 
 - **[Aura](https://github.com/KaridesFisher/Aura)** — A native macOS IPTV player. The project supplies player software only; it does not provide broadcasts or subscriptions.
 - **[Car Register](https://github.com/KaridesFisher/car-register)** — A C/C++ course project for organizing vehicle data with data structures.
 - **[Car Rental System](https://github.com/MuratYildiz1/oopsieRental)** — An object oriented, Java based car rental system built as a school assignment.
+- **[WipeHush](https://github.com/KaridesFisher/WipeHush)** - An app for physically cleaning Macbooks. Not official, but useful app to avoid keyboard and touchpad distraction.
 - **TEKNOFEST 2022 — Gamaplea** — Contributed to a health technology project exploring radiation-shielding materials.
 
 ### Current Interests
